@@ -22,7 +22,7 @@ CREATE TABLE creditcard command is as follow:
 	      V9 FLOAT not null,
 	      V10 FLOAT not null,
 	      V11 FLOAT not null,
-	      V12 FLOAT v,
+	      V12 FLOAT not null,
 	      V13 FLOAT not null,
 	      V14 FLOAT not null,
 	      V15 FLOAT not null,
